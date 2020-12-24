@@ -10,6 +10,9 @@
 [<img align="left" alt="dev.ahmetizgi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools:
 
