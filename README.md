@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate with other content creators
 
 <br />
-<br />
 
 ---
 
@@ -14,7 +13,6 @@
 
 [<img align="left" alt="dev.ahmetizgi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 <br />
 
 ---
